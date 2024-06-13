@@ -1,0 +1,126 @@
+.frame {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.frame .overlap-group-wrapper {
+    background-color: #ffffff;
+    width: 1400px;
+    height: 2400px;
+}
+
+.frame .overlap-group {
+    position: relative;
+    height: 2400px;
+    background-image: url(tex3.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.frame .rectangle {
+    top: 102px;
+    left: 50px;
+    position: absolute;
+    width: 650px;
+    height: 593px;
+    object-fit: cover;
+}
+
+.frame .img {
+    top: 915px;
+    left: 687px;
+    position: absolute;
+    width: 650px;
+    height: 593px;
+    object-fit: cover;
+}
+
+.frame .rectangle-2 {
+    top: 1728px;
+    left: 50px;
+    position: absolute;
+    width: 650px;
+    height: 593px;
+    object-fit: cover;
+}
+
+.frame .overlap {
+    position: absolute;
+    width: 598px;
+    height: 404px;
+    top: 206px;
+    left: 739px;
+    background-color: #000000;
+}
+
+.frame .text-wrapper {
+    position: absolute;
+    width: 517px;
+    top: 58px;
+    left: 43px;
+    font-family: "Inria Serif-Italic", Helvetica;
+    font-weight: 400;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .div-wrapper {
+    position: absolute;
+    width: 598px;
+    height: 404px;
+    top: 984px;
+    left: 50px;
+    background-color: #000000;
+}
+
+.frame .div {
+    top: 51px;
+    position: absolute;
+    width: 517px;
+    left: 41px;
+    font-family: "Inria Serif-Italic", Helvetica;
+    font-weight: 400;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .overlap-2 {
+    position: absolute;
+    width: 598px;
+    height: 404px;
+    top: 1823px;
+    left: 739px;
+    background-color: #000000;
+}
+
+.frame .p {
+    top: 67px;
+    position: absolute;
+    width: 517px;
+    left: 41px;
+    font-family: "Inria Serif-Italic", Helvetica;
+    font-weight: 400;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .ellipse {
+    position: absolute;
+    width: 136px;
+    height: 136px;
+    top: 34px;
+    left: 1116px;
+    object-fit: cover;
+}

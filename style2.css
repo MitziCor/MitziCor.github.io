@@ -1,0 +1,157 @@
+.frame {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.frame .overlap-group-wrapper {
+    background-color: #ffffff;
+    width: 1400px;
+    height: 2400px;
+}
+
+.frame .overlap-group {
+    position: relative;
+    height: 2400px;
+    background-image: url(tex2.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.frame .rectangle {
+    position: absolute;
+    width: 502px;
+    height: 406px;
+    top: 144px;
+    left: 83px;
+    object-fit: cover;
+}
+
+.frame .img {
+    position: absolute;
+    width: 634px;
+    height: 357px;
+    top: 749px;
+    left: 766px;
+}
+
+.frame .rectangle-2 {
+    position: absolute;
+    width: 502px;
+    height: 406px;
+    top: 1256px;
+    left: 100px;
+    object-fit: cover;
+}
+
+.frame .rectangle-3 {
+    position: absolute;
+    width: 502px;
+    height: 406px;
+    top: 1812px;
+    left: 809px;
+    object-fit: cover;
+}
+
+.frame .overlap {
+    position: absolute;
+    width: 706px;
+    height: 300px;
+    top: 181px;
+    left: 585px;
+    background-color: #000000;
+}
+
+.frame .jvvchchdyj-ryryjrsj {
+    position: absolute;
+    width: 646px;
+    top: 28px;
+    left: 17px;
+    font-family: "Inria Serif-Italic", Helvetica;
+    font-weight: 400;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .jvvchchdyj-ryryjrsj-wrapper {
+    position: absolute;
+    width: 706px;
+    height: 300px;
+    top: 775px;
+    left: 60px;
+    background-color: #000000;
+}
+
+.frame .text-wrapper {
+    width: 657px;
+    top: 46px;
+    left: 23px;
+    position: absolute;
+    font-family: "Inria Serif-Italic", Helvetica;
+    font-weight: 400;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .div-wrapper {
+    position: absolute;
+    width: 706px;
+    height: 300px;
+    top: 1309px;
+    left: 602px;
+    background-color: #000000;
+}
+
+.frame .div {
+    width: 607px;
+    top: 56px;
+    left: 39px;
+    position: absolute;
+    font-family: "Inria Serif-Italic", Helvetica;
+    font-weight: 400;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .overlap-2 {
+    position: absolute;
+    width: 706px;
+    height: 300px;
+    top: 1865px;
+    left: 103px;
+    background-color: #000000;
+}
+
+.frame .p {
+    width: 617px;
+    top: 34px;
+    left: 46px;
+    position: absolute;
+    font-family: "Inria Serif-Italic", Helvetica;
+    font-weight: 400;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .ellipse {
+    position: absolute;
+    width: 136px;
+    height: 136px;
+    top: 34px;
+    left: 1211px;
+    object-fit: cover;
+}
